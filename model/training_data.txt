@@ -1,0 +1,14 @@
+The sky is blue.
+The sun is bright.
+The moon appears at night.
+The earth moves around the sun.
+A computer processes information.
+Python is a programming language.
+A neural network learns from examples.
+A language model predicts the next token.
+Data analysis helps businesses make decisions.
+Revenue is the money a business earns.
+Profit is what remains after expenses.
+A dataset contains information.
+Machine learning finds patterns in data.
+The model learns by adjusting its weights.
